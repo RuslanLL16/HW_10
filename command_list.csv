@@ -1,0 +1,112 @@
+    1  ls
+    2  cd Ger
+    3  cd ..
+    4  ls
+    5  man ls
+    6  help ls
+    7  info ls
+    8  ls
+    9  pwd
+   10  mkdir Test1
+   11  ls
+   12  cd Ger
+   13  mkdir Test2
+   14  ls
+   15  touch file1.txt
+   16  touch file2.txt
+   17  vim file1.txt
+   18  nano file2.txt
+   19  cat file1.txt
+   20  cat file2.txt
+   21  clear
+   22  man ls
+   23  man cd
+   24  bash ls
+   25  help ls
+   26  ls
+   27  cd one
+   28  ls
+   29  cd~
+   30  cd~
+   31  cd ~
+   32  cd one
+   33  cd One
+   34  cd Start
+   35  ls Start
+   36  pwd
+   37  cd Desktop
+   38  cd Start
+   39  cd One
+   40  ls
+   41  mkdir Test1
+   42  ls
+   43  cd start
+   44  cd Start
+   45  cd One
+   46  ls
+   47  cd Test1
+   48  touch file1.txt
+   49  cd..
+   50  cd ..
+   51  date
+   52  .bash_history
+   53  ~/ .bash_history
+   54  git config --global user.name "Ruslan"
+   55  git config --global user.email "rus1612ll@gmail.com"
+   56  git clone [200~https://github.com/RuslanLL16/HW_10.git~
+   57  git clone https://github.com/RuslanLL16/HW_10.git
+   58  cd HW_10
+   59  nano .gitignore
+   60  touch text_ignore.txt
+   61  text_ignore.txt
+   62  nano .gitignore
+   63  git status
+   64  git add
+   65  git commit -m "Add .gitignore for text_ignore.txt
+   66  git status
+   67  touch main_test.txt
+   68  q
+   69  qq
+   70  git config advice.addEmpatyPathspec false
+   71  ~/.bash_history
+   72  git config --global user.name "Ruslan Lukashenko"
+   73  git config --global user.email "rus1612ll@gmail.com"
+   74  git clone https://github.com/RuslanLL16/HW_10.git
+   75  cd HW_10
+   76  touch text_ignore.txt
+   77  nano .gitignore
+   78  nano .gitignore
+   79  git status
+   80  git add
+   81  git commit -m "Add .gitignore for text_ignore.txt"
+   82  touch main_test.txt
+   83  git add
+   84  git commit -m "Add empty main_test.txt"
+   85  git checkout -b develop
+   86  touch develop_test.txt
+   87  git add
+   88  git config --global user.name "Ruslan Lukashenko"
+   89  git config --global user.email "rus1612ll@gmail.com"
+   90  git clone https://github.com/RuslanLL16/HW_10.git
+   91  cd HW_10
+   92  tought text_ignore.txt
+   93  none .gitignore
+   94  nano .gitignore
+   95  git status
+   96  git add .
+   97  git commit -m "Add .gitignore for text_ignore.txt"
+   98  touch main_test.txt
+   99  git add .
+  100  git commit -m "Add empty main_test.txt"
+  101  git checkout -b develop
+  102  touch develop_test.txt
+  103  git add .
+  104  git commit -m "Add empty develop_test.txt"
+  105  echo "just a small change" > develop_test.txt
+  106  git status
+  107  git add .
+  108  git commit -m "Update develop_test.txt with a small change"
+  109  git checkout main
+  110  git merge develop
+  111  git log
+  112  history > command_list.csv
